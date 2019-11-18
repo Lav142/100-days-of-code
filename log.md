@@ -33,4 +33,18 @@ Reviewed the arrays from lesson 4.  Need to play around with the one that scrapp
 
 Finished the Flex Panel exercise.  The little spellilng mistakes are killing me.  Flex Panel is very similar to one of the old school java panel types. So  old I can remember it.  Chopping away.  Need to find that other tutorial on the flex panel.  
 
+### Day 4 16 Nov 2019
+
+**Today's Progress**
+Searched for project ideas.  Starting with tic-tac-toe.  Watched another #javascript30.  It was the type ahead tutorial.
+
+Kind of a lame effort today because of Josie's Birthday.
+
+### Day 5 17 Nov 2019
+Worked through the #javaScript30 Type Ahead tutorial.  Tried to do as much as I could without watching the video.  
+
+Started actually coding the tic-tac-toe project.  Used a CSS grid.  The spacing is kind of mind boggling to me.  I was playing with different things in the css and I can't figure out how to shrink the grid down.
+
+
+
 
