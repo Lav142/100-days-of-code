@@ -14,11 +14,11 @@ Purpose: I am a old school back end developer.  I want to become familiar with f
 
 #Day 2 CSS Variables
 
-**Today's Progress**: #javascript30 lessons 2 & 3 
+**Today's Progress**: #javascript30 lessons 2 & 3
 
 Learned how to update variables via controls and use those variables to update elements on the page.  sliders updated the padding of an image.  A color selector updated the background of a element.  I learned that you can override the base var to specify a different value for a given element.
 
-node list vs array 
+node list vs array
 
    - node list does not have all of the functions or controls of an array.  node list is not as powerful
 
@@ -45,6 +45,10 @@ Worked through the #javaScript30 Type Ahead tutorial.  Tried to do as much as I 
 
 Started actually coding the tic-tac-toe project.  Used a CSS grid.  The spacing is kind of mind boggling to me.  I was playing with different things in the css and I can't figure out how to shrink the grid down.
 
+### Day 6 18 Nov 19
 
+Added a drop down so the first player can choose their mark, X or O.  Also, added a span so the game can display whose turn it is. The block changed size when I removed the place holder values.  I need to make sure they always stay the same size.
 
+### Day 7 19 Nov 19
 
+Worked through the Canvas Drawing and Dev Tricks with console functions with JavaScript30 tutorials.  May try to incorporate the canvas draing into tic-tac-toe.
